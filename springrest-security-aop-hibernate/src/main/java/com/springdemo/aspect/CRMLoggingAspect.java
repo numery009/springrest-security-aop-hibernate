@@ -19,7 +19,7 @@ public class CRMLoggingAspect {
 	// setup pointcut declarations
 
 	// pointcut expretion for controller
-	@Pointcut("execution( * com.springdemo.controller.*.*(..))")
+	@Pointcut("execution( * com.springdemo.rest.*.*(..))")
 	private void forControllerPackage() {
 
 	}
