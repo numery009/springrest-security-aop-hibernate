@@ -1,6 +1,6 @@
 # springrest-security-aop-hibernate
 
-The follwoing framework has been use--
+The follwoing frameworks have been use--
 
 1) Spring Rest
 2) Spring Security
